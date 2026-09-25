@@ -1,8 +1,9 @@
 # 💰 Coach Budget IA
 
+> A full-stack budget coach that combines cash-flow forecasting, transaction intelligence and actionable recommendations.
+
 > Application web de coaching budgétaire intelligent — prédit ton découvert, détecte tes abonnements oubliés, suggère des alternatives concrètes, compare les prix.
 
-![Status](https://img.shields.io/badge/status-Production%20Ready-green)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![React](https://img.shields.io/badge/React-18-61dafb)
 ![RGPD](https://img.shields.io/badge/RGPD-Compliant-purple)
@@ -13,8 +14,8 @@
 ## 🚀 Démarrage en 3 commandes
 
 ```bash
-git clone https://github.com/votre-username/coach-budget.git
-cd coach-budget
+git clone https://github.com/Shogun44-GT/solv-budget-app.git
+cd solv-budget-app
 ./start.sh
 ```
 
