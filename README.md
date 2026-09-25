@@ -14,8 +14,8 @@
 ## 🚀 Démarrage en 3 commandes
 
 ```bash
-git clone https://github.com/Shogun44-GT/solv-budget-app.git
-cd solv-budget-app
+git clone https://github.com/Shogun44-GT/solv-ai-budget-coach.git
+cd solv-ai-budget-coach
 ./start.sh
 ```
 
